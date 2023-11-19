@@ -14,6 +14,12 @@
     "categories": {
       "api": {
         "sungjoonhong": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dsbr8wc2eoiwr",
+          "type": "cicd"
+        }
       }
     }
   }
