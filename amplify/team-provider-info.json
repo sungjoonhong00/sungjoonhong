@@ -10,6 +10,11 @@
       "StackName": "amplify-sungjoonhong-dev-123122",
       "StackId": "arn:aws:cloudformation:ca-central-1:939009171055:stack/amplify-sungjoonhong-dev-123122/7594b0e0-8701-11ee-9b53-0eee2e4b8b02",
       "AmplifyAppId": "dsbr8wc2eoiwr"
+    },
+    "categories": {
+      "api": {
+        "sungjoonhong": {}
+      }
     }
   }
 }
